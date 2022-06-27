@@ -650,6 +650,15 @@ h3 {
   padding-bottom: 0px;
 }
 
+.section_title h2 {
+  font-size: 36px;
+  font-weight: 400;
+  color: #ffffff;
+  position: relative;
+  z-index: 0;
+  padding-bottom: 0px;
+}
+
 @media (max-width: 767px) {
   /* line 2, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_section_title.scss */
   .section_title h3 {
@@ -2579,7 +2588,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_gallery.scss */
 .gallery_area {
-  background: #311E25;
+  background: #765996;
   padding-top: 120px;
   padding-bottom: 120px;
 }
@@ -2994,7 +3003,7 @@ h3 {
 
 /* line 15, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_service.scss */
 .service_area .single_service h3 {
-  color: #DB9A64;
+  color: #ff7948;
   margin-top: 22px;
   margin-bottom: 11px;
   font-weight: 400;
