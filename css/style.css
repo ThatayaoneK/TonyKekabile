@@ -2695,7 +2695,7 @@ h3 {
 
 /* line 32, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_footer.scss */
 .footer .footer_top .lets_talk h3 a {
-  color: #DB9A64;
+  color: #ff7948;
 }
 
 /* line 36, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_footer.scss */
@@ -2707,7 +2707,7 @@ h3 {
 
 /* line 43, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_footer.scss */
 .footer .footer_top .single_links {
-  border: 1px solid #7A5444;
+  border: 1px solid #7900ff;
   padding: 25px 30px;
   cursor: pointer;
   -webkit-transition: 0.3s;
@@ -2732,7 +2732,7 @@ h3 {
 
 /* line 54, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_footer.scss */
 .footer .footer_top .single_links span {
-  color: #fff;
+  color: #7900ff;
   font-size: 24px;
   font-weight: 400;
 }
