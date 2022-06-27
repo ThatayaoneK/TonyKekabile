@@ -1052,25 +1052,26 @@ h3 {
   padding: 14px 49px;
   font-size: 16px;
   font-weight: 600;
-  border: 1px solid #DB9A64;
+  border: 1px solid #ffffff;
   color: #ff7948;
   -webkit-border-radius: 0px;
   -moz-border-radius: 0px;
   border-radius: 0px;
+  background: #ffffff;
 }
 
 @media (min-width: 992px) and (max-width: 1200px) {
   /* line 113, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_header.scss */
   .header-area .main-header-area .Appointment .book_btn a {
     padding: 12px 20px;
-    
+
   }
 }
 
 /* line 126, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_header.scss */
 .header-area .main-header-area .Appointment .book_btn a:hover {
   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#DB9A64+0,fd8e5e+100 */
-  background: #DB9A64;
+  background: #7900ff;
   color: #fff;
 }
 
