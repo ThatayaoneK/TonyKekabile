@@ -527,17 +527,17 @@ h3 {
 
 /* line 103, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_btn.scss */
 .boxed-btn3-line {
-  color: #DB9A64 !important;
+  color: #ff7948 !important;
   display: inline-block;
   padding: 17px 49px;
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-weight: 500;
   border: 0;
-  border: 1px solid #DB9A64;
+  border: 1px solid #ffffff;
   -webkit-border-radius: 0px;
   -moz-border-radius: 0px;
-  border-radius: 0px;
+  border-radius: 5px;
   text-align: center;
   text-transform: capitalize;
   -webkit-transition: 0.5s;
@@ -2469,6 +2469,7 @@ h3 {
 /* line 29, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_download.scss */
 .download_area .download_left .boxed-btn3-line {
   margin-top: 28px;
+  background-color: #ffffff;
 }
 
 /* line 34, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_download.scss */
