@@ -685,7 +685,7 @@ h3 {
 /* line 24, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_section_title.scss */
 .section_title p {
   font-size: 20px;
-  color: #F91842;
+  color: #ffffff;
   margin-bottom: 0;
   font-weight: 400;
   font-family: "Roboto", sans-serif;
@@ -1080,7 +1080,7 @@ h3 {
 /* line 126, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_header.scss */
 .header-area .main-header-area .Appointment .book_btn a:hover {
   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#DB9A64+0,fd8e5e+100 */
-  background: #7900ff;
+  background: #FF7948;
   color: #fff;
 }
 
@@ -1237,7 +1237,7 @@ h3 {
   transition: transform 500ms ease, background 500ms ease;
   -webkit-transition: transform 500ms ease, background 500ms ease;
   box-shadow: 0px 3px 16px 0px rgba(0, 0, 0, 0.1);
-  background: #311E25;
+  background: #47167d;
 }
 
 @media (max-width: 767px) {
