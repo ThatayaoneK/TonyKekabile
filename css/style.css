@@ -568,7 +568,7 @@ h3 {
 /* line 130, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_btn.scss */
 .boxed-btn2 {
   border: none;
-  background: #DB9A64;
+  background: #ff7948;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
@@ -583,7 +583,7 @@ h3 {
 
 /* line 143, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_btn.scss */
 .boxed-btn2:hover {
-  background: #DB9A64;
+  background: #ff7948;
   color: #fff !important;
 }
 
