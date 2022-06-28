@@ -1081,6 +1081,7 @@ h3 {
 .header-area .main-header-area .Appointment .book_btn a:hover {
   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#DB9A64+0,fd8e5e+100 */
   background: #FF7948;
+  border: 1px solid #ffffff;
   color: #fff;
 }
 
