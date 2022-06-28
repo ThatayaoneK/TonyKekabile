@@ -2598,6 +2598,33 @@ h3 {
   width: 100%;
 }
 
+
+
+.thumb img {
+	bottom: -1210px;
+	width: 100%;
+	height: auto;
+	position: absolute;
+	z-index: 0;
+  margin:0;
+  padding:0;
+	-webkit-transition: top 11s;
+	-moz-transition: top 11s;
+	-ms-transition: top 11s;
+	-o-transition: top 11s;
+	transition: bottom 11s;
+}
+.thumb:hover img {
+  bottom: 0;
+  -webkit-transition: all 11s;
+  -moz-transition: all 11s;
+  -ms-transition: all 11s;
+  -o-transition: all 11s;
+  transition: all 11s;
+}
+
+
+
 /* line 11, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_gallery.scss */
 .gallery_area .single_gallery .gallery_heading {
   padding: 20px 0;
