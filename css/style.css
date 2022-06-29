@@ -2451,10 +2451,11 @@ h3 {
 
 /* line 8, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_download.scss */
 .download_area .download_text h3 {
-  font-size: 36px;
+  font-size: 30px;
   color: #fff;
   line-height: 46px;
   margin-bottom: 60px;
+  font-family: 'Roboto', sans-serif;
 }
 
 @media (max-width: 767px) {
