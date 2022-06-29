@@ -73,8 +73,9 @@ button {
 
 /* line 39, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/theme-default.scss */
 h1, h2, h3, h4, h5 {
-  font-family: "Roboto", sans-serif;
+  font-family: "Anton";
   color: #001D38;
+  letter-spacing: 2px;
 }
 
 /* line 43, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/theme-default.scss */
@@ -2499,7 +2500,9 @@ h3 {
 .download_area .progress_skills .single_progress .label span {
   font-size: 16px;
   color: #fff;
-  font-weight: 400;
+  font-weight: 600;
+  letter-spacing: 2px;
+font-family: "Roboto";
 }
 
 /* line 44, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_download.scss */
